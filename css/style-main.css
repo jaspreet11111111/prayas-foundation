@@ -511,8 +511,11 @@ footer.bg-deep {
 .bg-gray-dimgray {
   background-color: #666666 !important;
 }
-.bg-gray-light {
+/* .bg-gray-light {
   background-color: #777777 !important;
+} */
+.bg-yellow{
+  background-color: #ffab00;
 }
 .bg-gray {
   background-color: #808080 !important;
